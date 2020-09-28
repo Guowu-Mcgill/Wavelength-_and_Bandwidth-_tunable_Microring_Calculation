@@ -1,4 +1,6 @@
-# Wavelength-_and_Bandwidth-_tunable_Microring_Calculation Calculation for wavelength- and bandwidth- tunable microring. 
+# Wavelength- and Bandwidth- tunable Microring Calculation 
+
+Calculation for wavelength- and bandwidth- tunable microring. 
 
 ### Structures
 
