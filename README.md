@@ -1,0 +1,2 @@
+# Wavelength-_and_Bandwidth-_tunable_Microring_Calculation
+ Calculation for wavelength- and bandwidth- tunable microring. Reference:  https://github.com/ywj1112/Microring-resonator-design-with-an-agile-and-accurate-simulation-method & Shoman, H., Jayatilleka, H., Park, A. H. K., Mistry, A., Jaeger, N. A. F., Shekhar, S., & Chrostowski, L. (2019). Compact wavelength- and bandwidth-tunable microring modulator. Opt Express, 27(19), 26661-26675. doi:10.1364/OE.27.026661 
